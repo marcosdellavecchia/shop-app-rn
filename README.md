@@ -1,2 +1,3 @@
 # shop-app-rn
-Shop  App built using React Native
+Shop App from Maximilian Schwarzmüller's React Native Course. Built for Underscope.
+
